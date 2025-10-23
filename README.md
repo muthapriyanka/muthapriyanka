@@ -1,3 +1,5 @@
-I am a passionate software engineer dedicated to solving complex problems and delivering high-quality, detail-oriented solutions with a get-it-done attitude. Currently pursuing an Master's in Software Engineering (GPA: 3.9/4.0) at San Jose State University, I bring hands-on expertise in Software Development Life Cycle (SDLC), data structures, and algorithms (DSA) to build scalable and efficient systems.
+As a results-driven software engineer with 3+ years of industry experience at Tata Consultancy Services and a Master’s in Software Engineering (GPA: 3.9/4.0) from San José State University, I bring strong expertise in building scalable, efficient, and reliable software systems.
 
-With industry experience, I have successfully tackled technical challenges while also demonstrating leadership and mentorship in team-driven environments. My goal is to combine technical excellence and problem-solving skills to drive innovation and enhance customer satisfaction.
+My skill set spans the full Software Development Life Cycle (SDLC), with hands-on experience in Java, Spring Boot, React.js, REST APIs, and AWS. At TCS, I successfully replaced manual risk tracking systems with web-based platforms (improving data accuracy by 80%) and developed RESTful services that improved performance and reduced booking errors by 30%.
+
+I thrive in collaborative, Agile environments and am passionate about solving real-world problems using data structures and algorithms.
