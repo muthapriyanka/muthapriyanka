@@ -55,3 +55,11 @@ I thrive in collaborative, Agile environments and am passionate about solving re
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 🎓 Education
+
+- **M.S. Software Engineering** — San José State University (2024–2026)
+- **B.E. Engineering** — Shivaji University (2016–2019)
+
+
